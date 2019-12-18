@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1486306067 source:c:\users\artem\desktop\praktika\mmix\src\command.cpp
+	"Command.h"
+	"Processor.h"
+
+1485976200 c:\users\artem\desktop\praktika\mmix\include\command.h
+	"Processor.h"
+	<cmath>
+
+1486404582 source:c:\users\artem\desktop\praktika\mmix\src\processor.cpp
+	"Processor.h"
+	"Command.h"
+	<algorithm>
+
+1485974611 c:\users\artem\desktop\praktika\mmix\include\processor.h
+	<stdlib.h>
+	<cstring>
+
+1486306488 source:c:\users\artem\desktop\praktika\mmix\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<sstream>
+	"Processor.h"
+	"Command.h"
+
+1485264368 source:e:\files\last_version_mmix\mmix\src\command.cpp
+	"Command.h"
+
+1485264368 e:\files\last_version_mmix\mmix\include\command.h
+
+1485550262 source:e:\files\last_version_mmix\mmix\src\processor.cpp
+	"Processor.h"
+
+1485550262 e:\files\last_version_mmix\mmix\include\processor.h
+
+1485584175 source:e:\files\last_version_mmix\mmix\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	"Processor.h"
+	"Command.h"
+
+1485264368 source:f:\files\last_version_mmix\mmix\src\command.cpp
+	"Command.h"
+
+1485264368 f:\files\last_version_mmix\mmix\include\command.h
+
+1485609775 source:f:\files\last_version_mmix\mmix\src\processor.cpp
+	"Processor.h"
+
+1485609699 f:\files\last_version_mmix\mmix\include\processor.h
+	<stdlib.h>
+
+1485616300 source:f:\files\last_version_mmix\mmix\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	"Processor.h"
+	"Command.h"
+
+1485264368 source:e:\files\praktika\mmix\src\command.cpp
+	"Command.h"
+
+1485849133 e:\files\praktika\mmix\include\command.h
+
+1485846090 source:e:\files\praktika\mmix\src\processor.cpp
+	"Processor.h"
+
+1485848053 e:\files\praktika\mmix\include\processor.h
+	<stdlib.h>
+	<cstring>
+
+1485846553 source:e:\files\praktika\mmix\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	"Processor.h"
+	"Command.h"
+
+1486458317 source:g:\files\m\praktika\mmix\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<sstream>
+	"Processor.h"
+	"Command.h"
+
+1486414197 g:\files\m\praktika\mmix\include\processor.h
+	<stdlib.h>
+	<cstring>
+
+1485976200 g:\files\m\praktika\mmix\include\command.h
+	"Processor.h"
+	<cmath>
+
+1486306067 source:g:\files\m\praktika\mmix\src\command.cpp
+	"Command.h"
+	"Processor.h"
+
+1486404582 source:g:\files\m\praktika\mmix\src\processor.cpp
+	"Processor.h"
+	"Command.h"
+	<algorithm>
+
+1486306067 source:f:\files\m\praktika\mmix\src\command.cpp
+	"Command.h"
+	"Processor.h"
+
+1485976200 f:\files\m\praktika\mmix\include\command.h
+	"Processor.h"
+	<cmath>
+
+1486414197 f:\files\m\praktika\mmix\include\processor.h
+	<stdlib.h>
+	<cstring>
+
+1486404582 source:f:\files\m\praktika\mmix\src\processor.cpp
+	"Processor.h"
+	"Command.h"
+	<algorithm>
+
+1486505706 source:f:\files\m\praktika\mmix\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<sstream>
+	"Processor.h"
+	"Command.h"
+
